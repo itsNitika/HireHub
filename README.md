@@ -1,6 +1,6 @@
-# 🚀 HireHub – Placement Portal
+# 🚀 PlacePro – Placement Portal
 
-HireHub is a full-stack Placement Portal that connects students and recruiters on a single platform. Students can browse jobs, apply using their resume link, and track application status, while recruiters can post jobs, review applicants, and shortlist or reject candidates.
+PlacePro is a full-stack Placement Portal that connects students and recruiters on a single platform. Students can browse jobs, apply using their resume link, and track application status, while recruiters can post jobs, review applicants, and shortlist or reject candidates.
 
  
  
@@ -53,7 +53,7 @@ HireHub is a full-stack Placement Portal that connects students and recruiters o
 ## 📂 Project Structure
 
 ```
-HireHub
+PlacePro
 │
 ├── frontend
 │   ├── src
