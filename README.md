@@ -138,9 +138,8 @@ Applied Date
 
 ## 👨‍💻 Author
 
-**Mayank Saini**
+**Nitika**
 
-GitHub:
-https://github.com/Mayank417
+GitHub: https://github.com/itsNitika
 
  
